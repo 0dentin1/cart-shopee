@@ -5,5 +5,5 @@ Develop a shopping cart system inspired by the functional shopping cart of Shope
 // application domain: shopping cart
 
 //represented entities:
-//->cart
-//->items
+//->cart = cart.js
+//->items = item.js
